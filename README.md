@@ -48,4 +48,4 @@ class ViewController: UIViewController, UIPopoverPresentationControllerDelegate 
 `vc.popoverPresentationController?.barButtonItem = self.navigationItem.rightBarButtonItem;`
 
 
-![弹窗效果.png](http://upload-images.jianshu.io/upload_images/670377-bc421030489e164b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/400)
+![弹窗效果.png](http://upload-images.jianshu.io/upload_images/670377-bc421030489e164b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
